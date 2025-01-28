@@ -1,0 +1,29 @@
+The following bugs have been found in the ToDo management application:
+
+    1. The headline text contains a grammatical error where 'To Do List' should be corrected to 'To-Do List' 
+
+    2. The input placeholder text contains a grammatical error where 'need's' should be corrected to 'needs'
+
+    3. The text at the very bottom of the application contains a grammatical error; 'toodo' should be corrected to 'To-Do.'
+
+    4. The result of the calculation related to a specific to-do item is off by one unit, indicating that the calculated value is one less than what it should be. 
+
+    5. When the 'drop down menu'-like button is clicked, it appears blurry to indicate that it is inactive, while all items on the to-do list are marked as completed by placing a tick in the circle next to each item and crossing out each completed item. 
+
+        5.1. The 'All' button is designed to perform the same function as the 'drop down menu' button.
+
+        5.2. The action of marking an item as completed by placing a tick in the circle next to each item is unnecessary, as there is already a button 'Completed' available to perform this action. 
+
+            5.2.1. The 'Completed' button does not mark items as completed. Instead, clicking this button hides (not deletes) the entire list of items.
+
+            5.2.2. The calculation of items remains visible but is inaccurate, being off by one unit.
+
+        5.3. The action of crossing out each completed item is unnecessary since there is already a button available to remove items.
+
+        5.4. Overall, the 'drop down menu' button is unnecessary in the input placeholder.
+
+    6. The button 'active' performs similarly to the button 'All'. 
+
+        6.1. For consistency, the text of the button 'active' should be corrected to 'Active'
+
+    7. When placing a tick in the circle next to the completed item, it is cleared from the list immediately 
