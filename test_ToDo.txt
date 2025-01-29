@@ -25,5 +25,3 @@ The following bugs have been found in the ToDo management application:
     6. The button 'active' performs similarly to the button 'All'. 
 
         6.1. For consistency, the text of the button 'active' should be corrected to 'Active'
-
-    7. When placing a tick in the circle next to the completed item, it is cleared from the list immediately 
