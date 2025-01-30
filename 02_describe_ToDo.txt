@@ -1,0 +1,30 @@
+Please cover the functionality of https://todolist.james.am/ with test cases.
+
+1. Identify the functionalities of https://todolist.james.am/
+2. Write up Test cases to cover all functionality.
+
+An example would be this
+
+# Test Case Template
+
+Test Case ID: [Unique identifier]
+Title: [Short, descriptive name]
+
+Description:
+[Brief description of what the test verifies]
+
+Preconditions:
+1. [List of setup steps or requirements before testing]
+
+Steps to Execute:
+1. [Step-by-step instructions for performing the test]
+2. [Next step, if any]
+
+Expected Result:
+[Describe the expected outcome]
+
+Actual Result: 
+[Leave blank for tester to fill in during execution]
+
+Status:
+[Pass/Fail/Blocked]
