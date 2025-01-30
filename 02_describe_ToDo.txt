@@ -7,8 +7,8 @@ An example would be this
 
 # Test Case Template
 
-Test Case ID: [Unique identifier]
-Title: [Short, descriptive name]
+Test Case ID: TC01
+Title: Enter item of the To-Do list
 
 Description:
 [Brief description of what the test verifies]
@@ -17,14 +17,14 @@ Preconditions:
 1. [List of setup steps or requirements before testing]
 
 Steps to Execute:
-1. [Step-by-step instructions for performing the test]
-2. [Next step, if any]
+1. Entering item of the list
+2. Pressing 'enter'
 
 Expected Result:
-[Describe the expected outcome]
+An item appears on the list with the possibitity to be ticked when completed
 
 Actual Result: 
-[Leave blank for tester to fill in during execution]
+An item appears on the list
 
 Status:
-[Pass/Fail/Blocked]
+Pass
